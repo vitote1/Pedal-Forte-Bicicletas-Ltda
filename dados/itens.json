@@ -1,0 +1,110 @@
+{
+    "PA-001": {
+        "codigo": "PA-001",
+        "descricao": "Bicicleta Aro 29 MTB",
+        "unidade_medida": "un",
+        "custo_unitario": 0.0,
+        "lead_time": 1,
+        "estoque_seguranca": 5,
+        "lote_minimo": 10
+    },
+    "PA-002": {
+        "codigo": "PA-002",
+        "descricao": "Bicicleta Aro 26 Urbana",
+        "unidade_medida": "un",
+        "custo_unitario": 0.0,
+        "lead_time": 1,
+        "estoque_seguranca": 5,
+        "lote_minimo": 10
+    },
+    "SA-010": {
+        "codigo": "SA-010",
+        "descricao": "Quadro aro 29 soldado",
+        "unidade_medida": "un",
+        "custo_unitario": 0.0,
+        "lead_time": 1,
+        "estoque_seguranca": 10,
+        "lote_minimo": 20
+    },
+    "SA-020": {
+        "codigo": "SA-020",
+        "descricao": "Roda aro 29 montada",
+        "unidade_medida": "un",
+        "custo_unitario": 0.0,
+        "lead_time": 1,
+        "estoque_seguranca": 10,
+        "lote_minimo": 80
+    },
+    "MP-100": {
+        "codigo": "MP-100",
+        "descricao": "Tubo de aco carbono",
+        "unidade_medida": "m",
+        "custo_unitario": 18.0,
+        "lead_time": 2,
+        "estoque_seguranca": 100,
+        "lote_minimo": 200
+    },
+    "MP-101": {
+        "codigo": "MP-101",
+        "descricao": "Tinta epoxi",
+        "unidade_medida": "L",
+        "custo_unitario": 40.0,
+        "lead_time": 2,
+        "estoque_seguranca": 10,
+        "lote_minimo": 20
+    },
+    "MP-200": {
+        "codigo": "MP-200",
+        "descricao": "Aro 29 aluminio",
+        "unidade_medida": "un",
+        "custo_unitario": 35.0,
+        "lead_time": 2,
+        "estoque_seguranca": 40,
+        "lote_minimo": 100
+    },
+    "MP-201": {
+        "codigo": "MP-201",
+        "descricao": "Raio inox",
+        "unidade_medida": "un",
+        "custo_unitario": 0.8,
+        "lead_time": 2,
+        "estoque_seguranca": 500,
+        "lote_minimo": 2000
+    },
+    "MP-202": {
+        "codigo": "MP-202",
+        "descricao": "Pneu 29 x 2.20",
+        "unidade_medida": "un",
+        "custo_unitario": 30.0,
+        "lead_time": 2,
+        "estoque_seguranca": 20,
+        "lote_minimo": 60
+    },
+    "MP-300": {
+        "codigo": "MP-300",
+        "descricao": "Guidao",
+        "unidade_medida": "un",
+        "custo_unitario": 45.0,
+        "lead_time": 2,
+        "estoque_seguranca": 10,
+        "lote_minimo": 30
+    },
+    "MP-301": {
+        "codigo": "MP-301",
+        "descricao": "Kit transmissao 12v",
+        "unidade_medida": "un",
+        "custo_unitario": 320.0,
+        "lead_time": 3,
+        "estoque_seguranca": 10,
+        "lote_minimo": 20
+    },
+    "MP-302": {
+        "codigo": "MP-302",
+        "descricao": "Selim",
+        "unidade_medida": "un",
+        "custo_unitario": 28.0,
+        "lead_time": 2,
+        "estoque_seguranca": 10,
+        "lote_minimo": 30
+    }
+}

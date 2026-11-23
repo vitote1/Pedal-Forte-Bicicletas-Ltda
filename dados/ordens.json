@@ -1,0 +1,80 @@
+{
+    "proximo": {
+        "OP": 46,
+        "OC": 7
+    },
+    "ordens": [
+        {
+            "numero": "OP-0039",
+            "tipo": "OP",
+            "codigo_item": "PA-001",
+            "quantidade": 10,
+            "liberar": 3,
+            "entregar": 4,
+            "status": "PLANEJADA"
+        },
+        {
+            "numero": "OP-0040",
+            "tipo": "OP",
+            "codigo_item": "PA-001",
+            "quantidade": 10,
+            "liberar": 5,
+            "entregar": 6,
+            "status": "PLANEJADA"
+        },
+        {
+            "numero": "OP-0041",
+            "tipo": "OP",
+            "codigo_item": "PA-001",
+            "quantidade": 10,
+            "liberar": 7,
+            "entregar": 8,
+            "status": "PLANEJADA"
+        },
+        {
+            "numero": "OP-0042",
+            "tipo": "OP",
+            "codigo_item": "PA-002",
+            "quantidade": 10,
+            "liberar": 0,
+            "entregar": 1,
+            "status": "PLANEJADA"
+        },
+        {
+            "numero": "OP-0043",
+            "tipo": "OP",
+            "codigo_item": "SA-010",
+            "quantidade": 170.0,
+            "liberar": 2,
+            "entregar": 3,
+            "status": "ENCERRADA"
+        },
+        {
+            "numero": "OP-0044",
+            "tipo": "OP",
+            "codigo_item": "SA-010",
+            "quantidade": 190.0,
+            "liberar": 4,
+            "entregar": 5,
+            "status": "PLANEJADA"
+        },
+        {
+            "numero": "OP-0045",
+            "tipo": "OP",
+            "codigo_item": "SA-010",
+            "quantidade": 190.0,
+            "liberar": 6,
+            "entregar": 7,
+            "status": "PLANEJADA"
+        },
+        {
+            "numero": "OC-0006",
+            "tipo": "OC",
+            "codigo_item": "MP-202",
+            "quantidade": 60,
+            "liberar": -1,
+            "entregar": 1,
+            "status": "PLANEJADA"
+        }
+    ]
+}
