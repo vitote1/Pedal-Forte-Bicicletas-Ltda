@@ -1,0 +1,18 @@
+{
+    "PA-001": {
+        "centro": "CT-03",
+        "tempo": 0.5
+    },
+    "PA-002": {
+        "centro": "CT-03",
+        "tempo": 0.5
+    },
+    "SA-010": {
+        "centro": "CT-01",
+        "tempo": 1.2
+    },
+    "SA-020": {
+        "centro": "CT-02",
+        "tempo": 1.15
+    }
+}

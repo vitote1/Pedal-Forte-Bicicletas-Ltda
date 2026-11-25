@@ -1,0 +1,13 @@
+﻿codigo;descricao;tipo;unidade;saldo;estoque_seguranca;situacao
+MP-100;Tubo de aco carbono;MP;m;150.0;100;OK
+MP-101;Tinta epoxi;MP;L;15.0;10;OK
+MP-200;Aro 29 aluminio;MP;un;60.0;40;OK
+MP-201;Raio inox;MP;un;800.0;500;OK
+MP-202;Pneu 29 x 2.20;MP;un;18.0;20;ABAIXO DA SEGURANCA
+MP-300;Guidao;MP;un;25.0;10;OK
+MP-301;Kit transmissao 12v;MP;un;15.0;10;OK
+MP-302;Selim;MP;un;20.0;10;OK
+PA-001;Bicicleta Aro 29 MTB;PA;un;25.0;5;OK
+PA-002;Bicicleta Aro 26 Urbana;PA;un;4.0;5;ABAIXO DA SEGURANCA
+SA-010;Quadro aro 29 soldado;SA;un;10.0;10;OK
+SA-020;Roda aro 29 montada;SA;un;40.0;10;OK

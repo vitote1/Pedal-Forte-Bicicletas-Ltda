@@ -115,3 +115,6 @@ class MRP:
         for rotulo, chave in LINHAS:
             valores = "".join(f"{v:>6g}" for v in registro[chave])
             print(f"{rotulo:<21}{valores}")
+
+    def registro(self, codigo):
+        return self._registros.get(codigo)

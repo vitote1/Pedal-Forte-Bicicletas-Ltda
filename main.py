@@ -6,6 +6,10 @@ from menu import menu_principal
 from mps import PlanoMestre
 from mrp import MRP
 from ordens import Ordens, GestaoOrdens
+from capacidade import Capacidade
+from custos import CustoPadrao
+from relatorios import Relatorios
+from graficos import Graficos
 
 def main():
     cadastro_itens = CadastrarItem()
@@ -15,7 +19,11 @@ def main():
     ordens = Ordens()
     mrp = MRP(cadastro_itens, estrutura, estoque, mps, ordens)
     gestao = GestaoOrdens(ordens, cadastro_itens, estrutura, estoque)
-    menu_principal(cadastro_itens, estrutura, estoque, mps, mrp, gestao)
+    capacidade = Capacidade(cadastro_itens, ordens)
+    custos = CustoPadrao(cadastro_itens, estrutura, capacidade)
+    relatorios = Relatorios(cadastro_itens, estoque, ordens)
+    graficos = Graficos(cadastro_itens, estoque, mrp, ordens, capacidade)
+    menu_principal(cadastro_itens, estrutura, estoque, mps, mrp, gestao, capacidade, custos, relatorios, graficos)
 
 
 if __name__ == "__main__":
